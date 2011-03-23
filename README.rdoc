@@ -1,5 +1,5 @@
 == Your tea, buddy
-"Your tea, buddy" is a splash screen with white background, red text and little loading progress bar 
+"Your tea, buddy" is a KDE splash screen with white background, red text and little loading progress bar 
 under the text. There is time to drink a cup of hot tea, buddy. Hurry up!
 
 {Screenshot1}[http://kde-look.org/CONTENT/content-pre1/140191-1.png]
