@@ -1,0 +1,8 @@
+[KSplash Theme: Your tea, buddy]
+Name = Your tea, buddy
+Description = There is time to drink a cup of hot tea, buddy. 
+Version = 0.1.0
+Author = Kirill Silin <kirill@silin.in>
+
+# Theme behaviour settings.
+Engine = KSplashX

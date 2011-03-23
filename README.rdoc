@@ -1,0 +1,20 @@
+== Your tea, buddy
+"Your tea, buddy" is a splash screen with white background, red text and little loading progress bar 
+under the text. There is time to drink a cup of hot tea, buddy. Hurry up!
+
+{Screenshot1}[http://kde-look.org/content/show.php/Your+tea%2C+buddy?content=140191]
+
+= Installation
+
+1. Download splash screen
+2. Navigate to "System Settings"
+3. At the "Workspace Appearance and Behavior" section find "Workspace Appearance" button
+4. At "Workspace Appearance" choose "Splash Screen" tab
+5. Choose "Install Theme File..." or press Alt+I hotkey
+6. Choose downloaded theme and apply it
+7. Click "Apply" in the right bottom corner or merely press Alt+P hotkey
+Next time, when you login, you'll see new splash screen
+
+= Feedback
+
+You are able to send me emails on <tt>kirill@silin.in</tt>
