@@ -18,3 +18,4 @@ Next time, when you login, you'll see new splash screen
 = Feedback
 
 You are able to send me emails on <tt>kirill@silin.in</tt>
+
