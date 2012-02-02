@@ -1,11 +1,11 @@
-== Your tea, buddy
+= Your tea, buddy
 "Your tea, buddy" is a KDE splash screen with white background, red text and
 little loading progress bar under the text. There is time to drink a cup of hot
 tea, buddy. Hurry up!
 
 {Screenshot1}[http://kde-look.org/CONTENT/content-pre1/140191-1.png]
 
-= Installation
+== Installation
 
 1. Download splash screen;
 2. Navigate to "System Settings";
