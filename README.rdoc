@@ -7,7 +7,7 @@ tea, buddy. Hurry up!
 
 == Installation
 
-1. Download splash screen;
+1. {Download}[http://kde-look.org/content/download.php?content=140191] splash screen;
 2. Navigate to "System Settings";
 3. At the "Workspace Appearance and Behavior" section find
    "Workspace Appearance" button;
